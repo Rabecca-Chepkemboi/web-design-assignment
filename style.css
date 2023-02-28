@@ -9,7 +9,7 @@
     display: flex;
     gap: 2%;
     padding-left: 10%;
-    color: black;
+    color: #414155;
     
 }
 .cha{
@@ -27,7 +27,7 @@
 }
 .e{
     text-align: center;
-    color: #ffe5d6;
+    color: #414155;
     font-weight: bold;
 }
 .f{
@@ -104,7 +104,7 @@
     color: #ffac7d;
     font-weight: bold;
     font-size: 150%;
-    padding-left: 10%;
+    padding-left: 22%;
 }
 .m{
     display: flex;
@@ -129,9 +129,9 @@
     display: flex;    
 }
 .p{
-    padding-left: 50%;
+    padding-left: 30%;
     border-radius: 50%;
-    background-color: #ffe5d6;
+    background-color: #ffffff;
     
 }
 .q{
@@ -148,7 +148,7 @@
 }
 .va{
     display: flex;
-    padding-left: 16%;
+    padding-left: 15%;
     gap: 6%;
     font-size: small;
 }
@@ -230,6 +230,32 @@
 .kwa{
     padding-left: 15%;
 }
+.ga{
+    display: flex;
+}
+.ge{
+    padding-left: 65%;
+    margin-bottom: 50%;
+}   
+.gi{
+    padding: 2px 4px;
+    background-color: lightgrey;
+    padding-right: 25%;
+    border-radius: 1em;
+}
+.ra{
+    gap: 10%;
+}
+.ha{
+    color: #ffac7d;
+    font-weight: bold;
+}
+.he{
+    font-weight: bold;
+}
+
+
+
 
 
 
